@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Россия",
+    "code": "RU",
+    "lat": 61,
+    "lon": 105,
+    "population": 144000000,
+    "gdp": 1699.877,
+    "gdpPerCapita": 11651,
+    "color": "#ff4444"
+  },
+  {
+    "name": "США",
+    "code": "US",
+    "lat": 38,
+    "lon": -97,
+    "population": 331000000,
+    "gdp": 22996.100,
+    "gdpPerCapita": 69400,
+    "color": "#4444ff"
+  },
+  {
+    "name": "Китай",
+    "code": "CN",
+    "lat": 35,
+    "lon": 105,
+    "population": 1444216107,
+    "gdp": 17734.063,
+    "gdpPerCapita": 12556,
+    "color": "#ffa500"
+  }
+]
