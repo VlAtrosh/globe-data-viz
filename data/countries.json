@@ -28,5 +28,75 @@
     "gdp": 17734.063,
     "gdpPerCapita": 12556,
     "color": "#ffa500"
+  },
+  {
+    "name": "Индия",
+    "code": "IN",
+    "lat": 20,
+    "lon": 77,
+    "population": 1393409038,
+    "gdp": 3176.298,
+    "gdpPerCapita": 2277,
+    "color": "#44ff44"
+  },
+  {
+    "name": "Бразилия",
+    "code": "BR",
+    "lat": -14,
+    "lon": -51,
+    "population": 212559417,
+    "gdp": 1839.758,
+    "gdpPerCapita": 8650,
+    "color": "#ffff44"
+  },
+  {
+    "name": "Германия",
+    "code": "DE",
+    "lat": 51,
+    "lon": 10,
+    "population": 83783942,
+    "gdp": 3863.344,
+    "gdpPerCapita": 46506,
+    "color": "#ff44ff"
+  },
+  {
+    "name": "Япония",
+    "code": "JP",
+    "lat": 36,
+    "lon": 138,
+    "population": 126476461,
+    "gdp": 5064.873,
+    "gdpPerCapita": 40113,
+    "color": "#44ffff"
+  },
+  {
+    "name": "Франция",
+    "code": "FR",
+    "lat": 46,
+    "lon": 2,
+    "population": 65273511,
+    "gdp": 2937.469,
+    "gdpPerCapita": 45000,
+    "color": "#ff88cc"
+  },
+  {
+    "name": "Великобритания",
+    "code": "GB",
+    "lat": 55,
+    "lon": -3,
+    "population": 67886011,
+    "gdp": 3186.860,
+    "gdpPerCapita": 46900,
+    "color": "#cc88ff"
+  },
+  {
+    "name": "Италия",
+    "code": "IT",
+    "lat": 42,
+    "lon": 12,
+    "population": 60461826,
+    "gdp": 2086.911,
+    "gdpPerCapita": 34500,
+    "color": "#88ffcc"
   }
 ]
