@@ -188,12 +188,8 @@
                 
                 <div class="control-group">
                     <h2>Внешний вид</h2>
-                    <label for="colorScheme">Цветовая схема:</label>
                     <select id="colorScheme">
-                        <option value="viridis">Viridis (по умолчанию)</option>
-                        <option value="plasma">Plasma</option>
-                        <option value="rainbow">Радужная</option>
-                        <option value="monochrome">Монохромная</option>
+
                     </select>
                     
                     <label for="barScale">Масштаб столбиков: <span id="scaleValue">1.5</span></label>
@@ -211,6 +207,9 @@
         
         <footer>
             <p>Учебная практика | 3 курс | Globe Data Viz | Three.js & WebGL</p>
+			<p id="data-status" style="font-size: 0.8rem; color: #88aaff; margin-top: 5px;">
+				Загрузка данных...
+			</p>
         </footer>
     </div>
 
@@ -220,7 +219,3 @@
     <script src="src/main.js"></script>
 </body>
 </html>
-
-
-
-
