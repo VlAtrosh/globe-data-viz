@@ -37,3 +37,11 @@ globe-data-viz/
 ## Интерфейс программы
 
 <img width="1920" height="983" alt="Снимок экрана (775)" src="https://github.com/user-attachments/assets/142ad243-6cd0-4b96-b8d7-51a2f6e44b3b" />
+
+Обновленный
+
+<img width="1920" height="1038" alt="Снимок экрана (787)" src="https://github.com/user-attachments/assets/378e43e4-6eb1-4103-8aa4-2205115338b3" />
+<img width="1920" height="1036" alt="Снимок экрана (788)" src="https://github.com/user-attachments/assets/cd5ab8f5-286a-48ba-a8e3-1da57cc71def" />
+
+
+
