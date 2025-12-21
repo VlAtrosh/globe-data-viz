@@ -337,7 +337,6 @@ function setupEventListeners() {
     dataTypeSelect.addEventListener('change', function(e) {
         currentDataType = e.target.value;
         createDataBars();
-        updateInfoBox();
     });
     
  
@@ -532,29 +531,6 @@ function onClickCountry(event) {
 }
 
 
-function updateInfoBox() {
-    const infoBox = document.getElementById('info-box');
-    if (infoBox.style.display === 'block') {
-   
-        const countryName = document.getElementById('country-name').textContent;
-        const country = countries.find(c => c.name === countryName);
-        if (country) {
-            let dataText = '';
-            switch(currentDataType) {
-                case 'population':
-                    dataText = `Население: ${formatNumber(country.data.population)}`;
-                    break;
-                case 'gdp':
-                    dataText = `ВВП: $${formatNumber(country.data.gdp * 1e9)}`;
-                    break;
-                case 'gdpPerCapita':
-                    dataText = `ВВП на душу: $${formatNumber(country.data.gdpPerCapita)}`;
-                    break;
-            }
-            document.getElementById('country-data').textContent = dataText;
-        }
-    }
-}
 
 function onWindowResize() {
     const container = document.getElementById('canvas-container');
@@ -574,4 +550,5 @@ function animate() {
 
 
 window.addEventListener('DOMContentLoaded', init);
+
 
