@@ -567,10 +567,6 @@ function onWindowResize() {
 function animate() {
     requestAnimationFrame(animate);
     
- 
-    if (earth) {
-        earth.rotation.y += 0.001;
-    }
     
     controls.update();
     renderer.render(scene, camera);
@@ -578,3 +574,4 @@ function animate() {
 
 
 window.addEventListener('DOMContentLoaded', init);
+
