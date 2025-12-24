@@ -4,99 +4,139 @@
     "code": "RU",
     "lat": 61,
     "lon": 105,
-    "population": 144000000,
-    "gdp": 1699.877,
-    "gdpPerCapita": 11651,
-    "color": "#ff4444"
+    "dataByYear": [
+      {"year": 2000, "population": 146890128, "gdp": 259.7, "gdpPerCapita": 1767},
+      {"year": 2005, "population": 143518523, "gdp": 764.0, "gdpPerCapita": 5323},
+      {"year": 2010, "population": 142849449, "gdp": 1524.9, "gdpPerCapita": 10678},
+      {"year": 2015, "population": 146267288, "gdp": 1363.5, "gdpPerCapita": 9324},
+      {"year": 2020, "population": 146171015, "gdp": 1699.9, "gdpPerCapita": 11651},
+      {"year": 2023, "population": 144000000, "gdp": 1839.8, "gdpPerCapita": 12765}
+    ]
   },
   {
     "name": "США",
     "code": "US",
     "lat": 38,
     "lon": -97,
-    "population": 331000000,
-    "gdp": 22996.100,
-    "gdpPerCapita": 69400,
-    "color": "#4444ff"
+    "dataByYear": [
+      {"year": 2000, "population": 282162411, "gdp": 10252.3, "gdpPerCapita": 36344},
+      {"year": 2005, "population": 295734134, "gdp": 13093.7, "gdpPerCapita": 44275},
+      {"year": 2010, "population": 309327143, "gdp": 14964.4, "gdpPerCapita": 48367},
+      {"year": 2015, "population": 320878310, "gdp": 18206.0, "gdpPerCapita": 56731},
+      {"year": 2020, "population": 331449281, "gdp": 20972.6, "gdpPerCapita": 63206},
+      {"year": 2023, "population": 331000000, "gdp": 22996.1, "gdpPerCapita": 69400}
+    ]
   },
   {
     "name": "Китай",
     "code": "CN",
     "lat": 35,
     "lon": 105,
-    "population": 1444216107,
-    "gdp": 17734.063,
-    "gdpPerCapita": 12556,
-    "color": "#ffa500"
+    "dataByYear": [
+      {"year": 2000, "population": 1262645000, "gdp": 1198.5, "gdpPerCapita": 949},
+      {"year": 2005, "population": 1303720000, "gdp": 2256.9, "gdpPerCapita": 1732},
+      {"year": 2010, "population": 1339725000, "gdp": 6087.1, "gdpPerCapita": 4550},
+      {"year": 2015, "population": 1371220000, "gdp": 11015.5, "gdpPerCapita": 8040},
+      {"year": 2020, "population": 1444216107, "gdp": 14722.7, "gdpPerCapita": 10200},
+      {"year": 2023, "population": 1444216107, "gdp": 17734.1, "gdpPerCapita": 12556}
+    ]
   },
   {
     "name": "Индия",
     "code": "IN",
     "lat": 20,
     "lon": 77,
-    "population": 1393409038,
-    "gdp": 3176.298,
-    "gdpPerCapita": 2277,
-    "color": "#44ff44"
-  },
-  {
-    "name": "Бразилия",
-    "code": "BR",
-    "lat": -14,
-    "lon": -51,
-    "population": 212559417,
-    "gdp": 1839.758,
-    "gdpPerCapita": 8650,
-    "color": "#ffff44"
+    "dataByYear": [
+      {"year": 2000, "population": 1056575549, "gdp": 476.6, "gdpPerCapita": 451},
+      {"year": 2005, "population": 1147609924, "gdp": 834.2, "gdpPerCapita": 727},
+      {"year": 2010, "population": 1234281170, "gdp": 1675.6, "gdpPerCapita": 1358},
+      {"year": 2015, "population": 1310152403, "gdp": 2103.6, "gdpPerCapita": 1606},
+      {"year": 2020, "population": 1393409038, "gdp": 2671.6, "gdpPerCapita": 1917},
+      {"year": 2023, "population": 1428627663, "gdp": 3176.3, "gdpPerCapita": 2227}
+    ]
   },
   {
     "name": "Германия",
     "code": "DE",
     "lat": 51,
     "lon": 10,
-    "population": 83783942,
-    "gdp": 3863.344,
-    "gdpPerCapita": 46506,
-    "color": "#ff44ff"
+    "dataByYear": [
+      {"year": 2000, "population": 82211508, "gdp": 1943.0, "gdpPerCapita": 23643},
+      {"year": 2005, "population": 82431353, "gdp": 2843.0, "gdpPerCapita": 34497},
+      {"year": 2010, "population": 81776930, "gdp": 3417.0, "gdpPerCapita": 41791},
+      {"year": 2015, "population": 81686611, "gdp": 3386.0, "gdpPerCapita": 41459},
+      {"year": 2020, "population": 83149300, "gdp": 3846.0, "gdpPerCapita": 46260},
+      {"year": 2023, "population": 83783942, "gdp": 3863.3, "gdpPerCapita": 46140}
+    ]
   },
   {
     "name": "Япония",
     "code": "JP",
     "lat": 36,
     "lon": 138,
-    "population": 126476461,
-    "gdp": 5064.873,
-    "gdpPerCapita": 40113,
-    "color": "#44ffff"
-  },
-  {
-    "name": "Франция",
-    "code": "FR",
-    "lat": 46,
-    "lon": 2,
-    "population": 65273511,
-    "gdp": 2937.469,
-    "gdpPerCapita": 45000,
-    "color": "#ff88cc"
+    "dataByYear": [
+      {"year": 2000, "population": 126843000, "gdp": 4887.5, "gdpPerCapita": 38534},
+      {"year": 2005, "population": 127773000, "gdp": 4755.3, "gdpPerCapita": 37222},
+      {"year": 2010, "population": 128057000, "gdp": 5759.1, "gdpPerCapita": 44979},
+      {"year": 2015, "population": 127141000, "gdp": 4389.4, "gdpPerCapita": 34522},
+      {"year": 2020, "population": 125960000, "gdp": 5040.1, "gdpPerCapita": 40013},
+      {"year": 2023, "population": 124470000, "gdp": 5064.9, "gdpPerCapita": 40670}
+    ]
   },
   {
     "name": "Великобритания",
     "code": "GB",
     "lat": 55,
     "lon": -3,
-    "population": 67886011,
-    "gdp": 3186.860,
-    "gdpPerCapita": 46900,
-    "color": "#cc88ff"
+    "dataByYear": [
+      {"year": 2000, "population": 58892514, "gdp": 1657.8, "gdpPerCapita": 28152},
+      {"year": 2005, "population": 60401206, "gdp": 2540.0, "gdpPerCapita": 42061},
+      {"year": 2010, "population": 62766365, "gdp": 2491.1, "gdpPerCapita": 39687},
+      {"year": 2015, "population": 65116219, "gdp": 2945.1, "gdpPerCapita": 45228},
+      {"year": 2020, "population": 67081000, "gdp": 2759.8, "gdpPerCapita": 41159},
+      {"year": 2023, "population": 67886011, "gdp": 3186.9, "gdpPerCapita": 46945}
+    ]
+  },
+  {
+    "name": "Франция",
+    "code": "FR",
+    "lat": 46,
+    "lon": 2,
+    "dataByYear": [
+      {"year": 2000, "population": 60912500, "gdp": 1362.3, "gdpPerCapita": 22368},
+      {"year": 2005, "population": 63621376, "gdp": 2206.4, "gdpPerCapita": 34674},
+      {"year": 2010, "population": 65027507, "gdp": 2642.6, "gdpPerCapita": 40639},
+      {"year": 2015, "population": 66553766, "gdp": 2434.9, "gdpPerCapita": 36579},
+      {"year": 2020, "population": 67749632, "gdp": 2636.0, "gdpPerCapita": 38908},
+      {"year": 2023, "population": 68560716, "gdp": 2937.5, "gdpPerCapita": 42828}
+    ]
+  },
+  {
+    "name": "Бразилия",
+    "code": "BR",
+    "lat": -14,
+    "lon": -51,
+    "dataByYear": [
+      {"year": 2000, "population": 174425387, "gdp": 644.7, "gdpPerCapita": 3696},
+      {"year": 2005, "population": 186830759, "gdp": 891.6, "gdpPerCapita": 4773},
+      {"year": 2010, "population": 195713635, "gdp": 2208.8, "gdpPerCapita": 11287},
+      {"year": 2015, "population": 207652865, "gdp": 1802.2, "gdpPerCapita": 8680},
+      {"year": 2020, "population": 212559417, "gdp": 1444.7, "gdpPerCapita": 6796},
+      {"year": 2023, "population": 216422446, "gdp": 1839.8, "gdpPerCapita": 8502}
+    ]
   },
   {
     "name": "Италия",
     "code": "IT",
     "lat": 42,
     "lon": 12,
-    "population": 60461826,
-    "gdp": 2086.911,
-    "gdpPerCapita": 34500,
-    "color": "#88ffcc"
+    "dataByYear": [
+      {"year": 2000, "population": 56942108, "gdp": 1143.7, "gdpPerCapita": 20084},
+      {"year": 2005, "population": 57969484, "gdp": 1859.1, "gdpPerCapita": 32071},
+      {"year": 2010, "population": 59277417, "gdp": 2135.3, "gdpPerCapita": 36023},
+      {"year": 2015, "population": 60730582, "gdp": 1835.9, "gdpPerCapita": 30233},
+      {"year": 2020, "population": 59433744, "gdp": 1887.5, "gdpPerCapita": 31757},
+      {"year": 2023, "population": 58870762, "gdp": 2086.9, "gdpPerCapita": 35450}
+    ]
   }
 ]
