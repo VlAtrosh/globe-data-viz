@@ -47,5 +47,8 @@ globe-data-viz/
 <img width="1920" height="1038" alt="Снимок экрана (787)" src="https://github.com/user-attachments/assets/378e43e4-6eb1-4103-8aa4-2205115338b3" />
 <img width="1920" height="1036" alt="Снимок экрана (788)" src="https://github.com/user-attachments/assets/cd5ab8f5-286a-48ba-a8e3-1da57cc71def" />
 
+<img width="1920" height="1028" alt="Снимок экрана (796)" src="https://github.com/user-attachments/assets/7682612e-978b-4d39-bae0-02489e449a92" />
+
+
 
 
